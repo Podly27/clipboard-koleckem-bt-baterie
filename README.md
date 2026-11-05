@@ -1,4 +1,6 @@
-# Baterie BT / BT Battery
+# Clipboard kolečkem a stav baterie BT
+
+*Middle-click Clipboard & Bluetooth Battery*
 
 [Česky](#česky) · [English](#english)
 
@@ -6,7 +8,7 @@
 
 Malá aplikace pro macOS, která v horní liště ukazuje baterii Bluetooth myši a klávesnice. Vznikla pro Eternico MV400 a ET-K200FBT1; u jiných zařízení záleží na tom, jak hlásí stav baterie.
 
-**[Stáhnout českou verzi](https://github.com/Podly27/bt-battery/releases/latest/download/BT-Battery-CZ.zip)** · [Vydání](https://github.com/Podly27/bt-battery/releases)
+**[Stáhnout českou verzi](https://github.com/Podly27/clipboard-koleckem-bt-baterie/releases/latest/download/BT-Battery-CZ.zip)** · [Vydání](https://github.com/Podly27/clipboard-koleckem-bt-baterie/releases)
 
 1. Rozbal ZIP, přesuň **Baterie BT.app** do Aplikací a spusť ji. Balíček je podepsaný lokálně a není notarizovaný společností Apple.
 2. Povol Bluetooth pro čtení baterií. Pro kolečko a klávesovou zkratku povol aplikaci v **Nastavení systému → Soukromí a zabezpečení → Zpřístupnění**.
@@ -20,7 +22,7 @@ Malá aplikace pro macOS, která v horní liště ukazuje baterii Bluetooth myš
 
 A small macOS menu bar app for Bluetooth mouse and keyboard battery levels. Built for the Eternico MV400 and ET-K200FBT1; other devices depend on whether they report battery levels.
 
-**[Download the English version](https://github.com/Podly27/bt-battery/releases/latest/download/BT-Battery-EN.zip)** · [Releases](https://github.com/Podly27/bt-battery/releases)
+**[Download the English version](https://github.com/Podly27/clipboard-koleckem-bt-baterie/releases/latest/download/BT-Battery-EN.zip)** · [Releases](https://github.com/Podly27/clipboard-koleckem-bt-baterie/releases)
 
 1. Unzip, move **BT Battery.app** to Applications, and launch it. The build is ad-hoc signed and not notarized by Apple.
 2. Allow Bluetooth access to read battery levels. For middle-click paste and the keyboard shortcut, grant Accessibility access in **System Settings → Privacy & Security → Accessibility**.
